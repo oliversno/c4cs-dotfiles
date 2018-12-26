@@ -1,0 +1,18 @@
+[user]
+	email = snoliver@umich.edu
+	name = Sean Oliver
+
+# This will automatically fix simple typos, e.g. `git psuh` will run `git push`
+[help]
+	autocorrect = 1
+
+# Alias lets you create new git subcommands.
+# The first example lets you type `git st` instead of `git status`.
+# The rest of the examples augment `git log` to include various summaries of
+# changed files, including the last example `git graph` we showed in lecture.
+# Try them out!
+[alias]
+	st = status
+	ll = log --stat --abbrev-commit
+	gr = log --graph --full-history --all --color
+	graph = log --graph --full-history --all --color --pretty=tformat:"%C(red)%h%C(reset)%x09%C(green)%d%C(reset)%C(bold)%s%C(reset)%C(yellow)(%an)%C(reset)"
