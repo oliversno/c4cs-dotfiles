@@ -4,5 +4,5 @@ alias vi=vim
 alias wget='wget -c'
 mkcd()
 {
-  mkdir -p -- "$1" && cd -P -- "$1"
+	mkdir -p -- "$1" && cd -P -- "$1"
 }
