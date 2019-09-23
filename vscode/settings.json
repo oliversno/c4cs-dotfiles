@@ -1,0 +1,27 @@
+{
+    "git.autofetch": true,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+    "git.confirmSync": false,
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 1,
+    "explorer.confirmDragAndDrop": false,
+    "editor.renderControlCharacters": false,
+    "editor.minimap.enabled": true,
+    "workbench.colorTheme": "Retreon",
+    "editor.fontWeight": "bold",
+    "spotify.showToggleRepeatingButton": false,
+    "spotify.showToggleShufflingButton": false,
+    "spotify.showMuteUnmuteVolumeButton": false,
+    "spotify.showNextButton": false,
+    "spotify.showPlayPauseButton": false,
+    "spotify.showPreviousButton": false,
+    "spotify.showSignInButton": false,
+    "spotify.showSignOutButton": false,
+    "workbench.colorCustomizations": {
+        "[Retreon]": {
+            "activityBar.foreground": "#138044",
+            "activityBar.inactiveForeground": "#18ee78",
+            "editorCursor.foreground": "#ff8300",
+        }
+    }
+}
