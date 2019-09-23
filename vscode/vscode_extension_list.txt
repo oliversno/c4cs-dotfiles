@@ -1,0 +1,13 @@
+dbaeumer.vscode-eslint
+donjayamanne.githistory
+formulahendry.terminal
+GrapeCity.gc-excelviewer
+kgscott.retreon
+leizongmin.node-module-intellisense
+ms-python.python
+ms-vscode.cpptools
+qezhu.gitlink
+rogalmic.bash-debug
+Rubymaniac.vscode-paste-and-indent
+Shan.code-settings-sync
+shyykoserhiy.vscode-spotify
